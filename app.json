@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "math_flash_rn",
-    "slug": "math_flash_rn",
+    "name": "math_flashcards",
+    "slug": "math_flashcards",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
