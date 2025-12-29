@@ -78,10 +78,6 @@ const LoadingScreen = ({ navigation }) => {
             />
 
             <View style={styles.spinnerContainer}>
-                <Animated.Image
-                    source={require('../assets/images/loading_spinner.png')}
-                    style={[styles.spinner, { transform: [{ rotate: spin }] }]}
-                />
                 <Text style={styles.loadingText}>LOADING...</Text>
             </View>
 
